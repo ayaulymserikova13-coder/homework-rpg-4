@@ -7,7 +7,7 @@ import java.util.List;
 public class RaidResult {
     private String winner;
     private int rounds;
-    private final List<String> log = new ArrayList<>();
+    private final List<String> log=new ArrayList<>();
 
     public String getWinner() {
         return winner;

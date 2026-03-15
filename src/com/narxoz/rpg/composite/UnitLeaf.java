@@ -3,7 +3,7 @@ package com.narxoz.rpg.composite;
 import java.util.Collections;
 import java.util.List;
 
-public abstract class UnitLeaf implements CombatNode {
+public abstract class UnitLeaf implements CombatNode{
     private final String name;
     private int health;
     private final int attackPower;

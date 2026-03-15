@@ -2,7 +2,7 @@ package com.narxoz.rpg.composite;
 
 import java.util.List;
 
-public interface CombatNode {
+public interface CombatNode{
     String getName();
     int getHealth();
     int getAttackPower();
